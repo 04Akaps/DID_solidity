@@ -5,8 +5,8 @@
 Ganache와 remix웹 IDE환경에서 작업을 하였습니다.
 
 코드 설명 블로그
+- https://velog.io/@jjimgo/DID-백신-시스템-솔리디티
 
-https://velog.io/@jjimgo/DID-백신-시스템-솔리디티
+
 코드 작동 영상
-
-https://www.youtube.com/watch?v=NsXU2sqMdUU
+- https://www.youtube.com/watch?v=NsXU2sqMdUU
